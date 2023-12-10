@@ -2,15 +2,15 @@
 
 
 ClassicBoard::ClassicBoard(char* columns, int numberOfColumns, char* rows, int numberOfRows, std::string fen){
-    numberOfColumns = 8;
-    numberOfRows = 8;
+    // numberOfColumns = 8;
+    // numberOfRows = 8;
 
-    boardFEN = "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1";
+    // boardFEN = "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1";
 
-    char columns[] = {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h'};
-    char rows[] = {'1', '2', '3', '4', '5', '6', '7', '8'};
+    // char columns[] = {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h'};
+    // char rows[] = {'1', '2', '3', '4', '5', '6', '7', '8'};
 
-    std::string coordinatesString;
+    // std::string coordinatesString;
 //    "a1", "a2"
 
 //    for (auto coordinates : bishop.getPossibleMoves()){
